@@ -5,5 +5,5 @@
 @endsection
 
 @section('content')
-		YES.
+		leader.
 @endsection
